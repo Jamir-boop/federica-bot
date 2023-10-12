@@ -3,7 +3,7 @@
 <img src="logo.png" alt="image" border="0">
   <h1 align="center">federica-bot</h1>
   <p align="center">
-    Federica Bot is an automated assistant that transfers financial data from your emails to your BudgetBakers Wallet account. It efficiently identifies and records transaction details from emails, simplifying your financial tracking process.
+    Revolutionize Your Financial Tracking: Federica Bot Seamlessly Transfers Transaction Data from Your Emails Directly to Your BudgetBakers Wallet!
     <br />
   </p>
 </div>
