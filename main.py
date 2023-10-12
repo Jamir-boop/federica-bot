@@ -1,9 +1,15 @@
+import os
 from time import sleep
 from federicabot import FedericaBot
 
+from dotenv import load_dotenv
+
 if __name__ == "__main__":
-    bot = FedericaBot(email="jeisereljamir@gmail.com",
-                      password="!rZtuqQG*eWQfq*GTR5#h$T$7to4pf",
+    load_dotenv()
+    email = os.getenv('EMAIL')
+    password = os.getenv('WALLET_PASSWORD')
+    bot = FedericaBot(email=email,
+                      password=password,
                       dashboard_url="https://web.budgetbakers.com/dashboard")
     bot.login()
     bot.record()
