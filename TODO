@@ -1,0 +1,26 @@
+1. **Configuración Inicial**:
+   - [✔] Configurar el entorno de desarrollo.
+   - [✔] Instalar Selenium y otras librerías necesarias.
+
+2. **Acceso a Correos**:
+   - [ ] Desarrollar módulo para acceder a las cuentas de correo y recuperar correos nuevos.
+   - [ ] Implementar gestión segura de credenciales.
+
+3. **Procesamiento de Correos**:
+   - [ ] Diseñar algoritmos para extraer información de los correos.
+   - [ ] Manejar variaciones en la estructura de los correos entre diferentes fuentes.
+
+4. **Interacción Web**:
+   - [✔] Desarrollar módulo para iniciar sesión y navegar en la página web.
+   - [✔] Implementar funciones para registrar información en la web.
+
+5. **Documentación**:
+   - [✔] Documentar el código.
+   - [✔] Crear documentación del sistema.
+
+6. **Control de Versiones**:
+   - [✔] Implementar sistema de control de versiones como Git.
+
+7. **Automatización**:
+   - [ ] Automatizar la ejecución del bot.
+   - [ ] Implementar monitoreo y logging.

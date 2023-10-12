@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+env/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+ehthumbs_vista.db
+
+# Log files
+*.log
+*.log.*
+logs/
+
+# Testing
+*.pytest_cache/
+.coverage
+htmlcov/
+
+# Compiled Python modules
+*.pyd
+*.pyo
+*.pyw
+*.pyz
+*.so
+*.dll
+
+# Environment variables
+.env
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
+*.temp
+
+# Media Files
+*.m4a
+*.mp3
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.mkv
+*.gif
+*.mov
+*.avi
+*.wmv
+*.flv
+*.wav
+*.ogg
+*.aac
