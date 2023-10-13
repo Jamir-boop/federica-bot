@@ -1,6 +1,6 @@
 <!-- LOGO -->
 <div align="center" id="top">
-<img src="logo.png" alt="image" border="0" width="50px">
+<img src="logo.png" alt="image" border="0" width="256px">
   <h1 align="center">federica-bot</h1>
   <p align="center">
     Revolutionize Your Financial Tracking: Federica Bot Seamlessly Transfers Transaction Data from Your Emails Directly to Your BudgetBakers Wallet!
